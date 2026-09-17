@@ -1,74 +1,80 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
             <channel>
-              <title>FAKT RSS (echobox)</title>
-              <link>https://www.fakt.pl/</link>
-              <description>Test Echobox</description>
-              <lastBuildDate>Thu, 17 Sep 2026 10:59:48 GMT</lastBuildDate>
-              <atom:link rel="self" href="https://www.fakt.pl/fakt-breaking-news-echobox-rss-feed.xml" type="application/rss+xml"/><item>
-            <title>Breaking Tragedia podczas konwoju na Śląsku. &quot;Potwierdzamy&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/slask/tragedia-podczas-konwoju-pod-klobuckiem-nie-zyje-mezczyzna/mbxln6p</link>
-            <description>Tragedia podczas konwoju na Śląsku. – Potwierdzamy, że w dniu dzisiejszym doszło do tragicznego zdarzenia w postaci śmierci funkcjonariusza Służby Więziennej – przekazuje &quot;Faktowi&quot; ppłk Arleta Pęconek, rzecznik Służby Więziennej.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/f86f556e-9a56-48ca-bf53-6612ec3e04f5.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Tue, 15 Sep 2026 13:03:51 GMT</pubDate>
-            <guid isPermaLink="false">6065f5f9-e16b-4e01-8003-95d5b686a8b2</guid></item><item>
-            <title>Breaking Alarm we wschodniej Polsce. Wojsko poderwało myśliwce</title>
-            <link>https://www.fakt.pl/polityka/alarm-we-wschodniej-polsce-wojsko-poderwalo-mysliwce/1f4m7rb</link>
-            <description>Wojsko Polskie poderwało po godz. 7 rano 16 września myśliwce we wschodniej części kraju w związku z nowym rosyjskim atakiem na Ukrainę. &quot;Działania te mają charakter prewencyjny i są ukierunkowane na zabezpieczenie przestrzeni powietrznej&quot; — przekazało Dowództwo Operacyjne Rodzajów Sił Zbrojnych RP. Wydano również alert RCB i zamknięto lotniska w Rzeszowie i Lublinie. Po ponad pół godziny alarm odwołano.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ce312020-5520-4d15-8985-d5533c250c6e.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 05:40:09 GMT</pubDate>
-            <guid isPermaLink="false">f1b82bc8-740c-45e5-b882-5e5cdacf5633</guid></item><item>
-            <title>Breaking Koszalin. Rodzina nie mogła się dodzwonić. W mieszkaniu znaleziono zwłoki starszego małżeństwa</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/tragedia-w-koszalinie-policja-wyjasnia-smierc-starszego-malzenstwa/cqjcglc</link>
-            <description>Koszalin żyje szokującym wydarzeniem, do którego doszło wieczorem, we wtorek, 15 września, w jednym z mieszkań przy ul. Wyspiańskiego. Policja, wezwana przez zaniepokojoną rodzinę, odkryła ciała 69-letniej kobiety i 63-letniego mężczyzny. Drzwi do mieszkania otworzył 53-letni mężczyzna, który został zatrzymany przez funkcjonariuszy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/fadb9b20-651e-4800-9079-7c7d924d6ea3.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 07:36:27 GMT</pubDate>
-            <guid isPermaLink="false">58141ca0-dffb-4a42-b4f5-98613af84ec7</guid></item><item>
-            <title>Breaking W to był uzbrojony. Nowe informacje o rosyjskim dronie na plaży</title>
-            <link>https://www.fakt.pl/polityka/dron-na-plazy-byl-uzbrojony-nowe-informacje-z-prokuratury/wtptqk2</link>
-            <description>Bezzałogowiec znaleziony na plaży w Rusinowie był uzbrojony w ważącą ok. 4 kg głowicę bojową, która została zneutralizowana — poinformowała prokuratura. Obiekt został zabezpieczony. To najprawdopodobniej rosyjski dron Gerbera 2.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/58568184-c0f2-418e-82aa-8e36f9482798.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 10:25:59 GMT</pubDate>
-            <guid isPermaLink="false">d5cec8a9-8c7c-4caf-9c02-fa32f30313a9</guid></item><item>
-            <title>Breaking Dramatyczne odkrycie w Ośnie Lubuskim. Na skwerku znaleziono roznegliżowane zwłoki starszej kobiety</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/zwloki-kobiety-przy-sciezce-w-osnie-lubuskim-policja-bada-sprawe/0ld62b2</link>
-            <description>Mieszkańcy Ośna Lubuskiego (woj. lubuskie) są w szoku po tym, co wydarzyło się w środę 16 września rano. Przechodnie natknęli się na półnagie zwłoki kobiety na skwerku, tuż przy popularnej ścieżce spacerowej. Policja i prokuratura od rana pracują na miejscu, wyjaśniając, co dokładnie się stało.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b4179752-452e-4a66-8a2f-c97504ead103.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 11:41:35 GMT</pubDate>
-            <guid isPermaLink="false">37dc38de-3694-46d4-8fde-247ea1c3beb5</guid></item><item>
-            <title>Breaking Cudak dostał się do gabinetu i zaczął zwalniać. Kurowska zdumiona. &quot;Wybili przejście w ścianie&quot;</title>
-            <link>https://www.fakt.pl/polityka/slawomir-cudak-wszedl-do-gabinetu-w-aws-maria-kurowska-z-pis-przez-sciane/gg8twg9</link>
-            <description>Po niemal tygodniu Sławomirowi Cudakowi udało się dostać do gabinetu rektora Akademii Wymiaru Sprawiedliwości. Zaskoczyło to Marię Kurowską. Posłanka PiS blokuje bowiem wejście do pomieszczenia. &quot;Prawdopodobnie wybili przejście w ścianie!&quot; — napisała w mediach społecznościowych. Niedługo później Cudak zwolnił kilka osób.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/bda327b4-ab72-4283-82d2-5e7855d8e3a0.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Wed, 16 Sep 2026 14:17:52 GMT</pubDate>
-            <guid isPermaLink="false">6b140a82-1c01-4e09-b877-4d14333e2f38</guid></item><item>
-            <title>Breaking Poruszające słowa córki po brutalnym zabójstwie w Koszalinie. &quot;Jakim trzeba być okrutnym...&quot;</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/szczecin/podwojne-zabojstwo-w-koszalinie-poruszajacy-wpis-corki-jakim-trzeba-byc/bj123qy</link>
-            <description>&quot;Dlaczego?&quot; — to pytanie zadaje sobie zrozpaczona córka Jerzego N. († 63 l.), który razem ze swoją partnerką Lilianą L. († 69 l.) został brutalnie zamordowany. Podejrzany o dokonanie podwójnego zabójstwa ze szczególnym okrucieństwem jest młodszy brat kobiety, który mieszkał z nimi w Koszalinie od długiego czasu. W sieci pojawiło się poruszające pożegnanie zamordowanej pary.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/24ef6f4d-48e0-45ad-8a33-6063a6fd66ad.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 17 Sep 2026 04:20:00 GMT</pubDate>
-            <guid isPermaLink="false">e0916178-ccd9-4232-852e-abe8af9b4920</guid></item><item>
-            <title>Breaking Policja będzie interweniować w Trybunale Konstytucyjnym? Szef MSWiA stawia sprawę jasno</title>
-            <link>https://www.fakt.pl/polityka/policja-bedzie-interweniowac-w-trybunale-konstytucyjnym-kierwinski-odpowiada/6bzq6bj</link>
-            <description>Minister spraw wewnętrznych i administracji Marcin Kierwiński był pytany w radiowej Jedynce, czy policja może zainterweniować w Trybunale Konstytucyjnym. — Policja jest od tego, aby pilnować przestrzegania prawa. Jeżeli w TK będzie łamane prawo, to policja będzie interweniować — odpowiedział szef MSWiA.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/b895891e-f309-419c-8d16-1d3be704fa6f.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 17 Sep 2026 08:41:46 GMT</pubDate>
-            <guid isPermaLink="false">41ec0c83-55fa-41b2-b563-58a42958ebbd</guid></item><item>
-            <title>Breaking Polska poderwała myśliwce. Jest komunikat wojska</title>
-            <link>https://www.fakt.pl/polityka/polska-poderwala-mysliwce-jest-komunikat-wojska/q6t4gtv</link>
-            <description>&quot;W związku z uderzeniami wykonywanymi przez Federację Rosyjską za pomocą odrzutowych bezzałogowych statków powietrznych na zachodnie terytorium Ukrainy rozpoczęło się operowanie lotnictwa wojskowego w polskiej przestrzeni powietrznej&quot; — podało o godz. 11:40 Dowództwo Operacyjne Rodzajów Sił Zbrojnych. Następnie poinformowano, że dron uderzył w cel bądź został zwalczony 4 km po ukraińskiej stronie granicy.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/ecbea1ec-6d23-45b4-b39e-e825b8fec6c4.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 17 Sep 2026 09:50:02 GMT</pubDate>
-            <guid isPermaLink="false">e057bc2d-6e38-48d1-96cf-23b00a414251</guid></item><item>
-            <title>Breaking W Łodzi było słychać potężny huk. Wojsko z nowym komunikatem</title>
-            <link>https://www.fakt.pl/wydarzenia/polska/lodz/potezne-wybuchy-w-lodzi-mieszkancy-slyszeli-eksplozje-szyby-drzaly/qvg618p</link>
-            <description>W Łodzi około godziny 11:40 było słychać dwa potężne huki. Te były związane z przekroczeniem bariery dźwięku przez wojskowe samoloty bojowe — potwierdza Dowództwo Operacyjne Rodzajów Sił Zbrojnych.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/9ffaac4e-9e00-476b-acdd-7488239c16e4.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 17 Sep 2026 10:05:58 GMT</pubDate>
-            <guid isPermaLink="false">33732866-cfe7-4f40-a02a-67ddc861ad7a</guid></item><item>
-            <title>Breaking Grom dźwiękowy wystraszył mieszkańców Łodzi. Wszystko przez sonic boom. Co to takiego?</title>
-            <link>https://www.fakt.pl/bezpieczenstwo/huk-w-lodzi-po-przelocie-mysliwca-wyjasniamy-czym-jest-sonic-boom/cze8cxd</link>
-            <description>Nagły, potężny huk słyszany w czwartek, 17 września m.in. w Łodzi, mógł przypominać eksplozję lub uderzenie pioruna. W rzeczywistości był skutkiem przekroczenia bariery dźwięku przez samolot lecący z prędkością ponaddźwiękową. To zjawisko, nazywane sonic boom, jest naturalnym efektem lotu szybszego od dźwięku.</description>
-            <enclosure url="https://ocdn.eu/pulscms/MDA_/fad92b7f-a208-4585-9382-ed8a6077dffe.jpeg" length="0" type="image/jpeg"/>
-            <pubDate>Thu, 17 Sep 2026 10:59:48 GMT</pubDate>
-            <guid isPermaLink="false">1538e3b5-b2bb-4c82-a59e-232341eec520</guid></item></channel>
+              <title>Echobox - Breaking - Kobieta</title>
+              <link>https://kobieta.onet.pl/</link>
+              <description>Echobox - Breaking - Kobieta</description>
+              <lastBuildDate>Thu, 17 Sep 2026 11:53:23 GMT</lastBuildDate>
+              <atom:link rel="self" href="https://kobieta.onet.pl/kobieta-echobox-breaking-rss-feed.xml" type="application/rss+xml"/><item>
+            <title>Breaking Kardiolog z Harvardu nie pozostawia złudzeń. &quot;Te sześć błędów prowadzi do chorób serca&quot;</title>
+            <link>https://kobieta.onet.pl/wiadomosci/kardiolog-z-harvardu-ostrzega-te-codzienne-nawyki-prowadza-do-chorob-serca/78wnvy4</link>
+            <description>Większość ludzi nie dziedziczy chorób serca w genach. Jak mówi kardiolog Francesco Lo Monaco, który przez lata prowadził badania nad fizjologią układu sercowo-naczyniowego na Uniwersytecie Harvarda, te schorzenia najczęściej są wynikiem drobnych codziennych wyborów, powtarzanych regularnie przez dekady. - Wielu moich pacjentów uważa, że robi wszystko „jak należy”. Nie zdają sobie sprawy, że niejedzenie śniadań, siedzenie cały dzień przy biurku czy chodzenie spać codziennie o innej porze po cichu niszczy ich układ sercowo-naczyniowy - twierdzi lekarz.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/61a0f92e30caaef05f3a2fb099556fe3.png" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+            <guid isPermaLink="false">7dd479dc-29f2-4fcf-9542-4f5b57c7fe26</guid></item><item>
+            <title>Breaking Dlaczego pralka &quot;skacze&quot; podczas wirowania? Wyjaśniamy</title>
+            <link>https://kobieta.onet.pl/dom/porady/pralka-juz-nie-tanczy-po-lazience-trik-z-butelka-podbija-internet/vxzc5fd</link>
+            <description>Najczęstszą przyczyną jest niewyważenie wsadu w bębnie lub nieprawidłowe wypoziomowanie urządzenia. Doraźnie pomóc może domowy trik z butelką.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/359bb288e52ee562e91eda9b83563bb2.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 16 Sep 2026 11:15:11 GMT</pubDate>
+            <guid isPermaLink="false">cb0539da-ee2d-4291-9e30-8f25fa7ea598</guid></item><item>
+            <title>Breaking Amstaff zaatakował pod Poznaniem. Ranny chow chow pogryzł dwie osoby</title>
+            <link>https://kobieta.onet.pl/wiadomosci/amstaff-sprowokowal-atak-pod-poznaniem-dwie-osoby-ranne/edfs5cq</link>
+            <description>W podpoznańskim Puszczykowie doszło do ataku amstaffa na innego psa rasy chow chow. Jego właścicielka oraz przypadkowy mężczyzna próbując rozdzielić zwierzęta, sami odnieśli obrażenia. Kobieta z ranami rąk i nóg trafiła do szpitala. Sprawą zajmuje się policja.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/334b8ed5d6cc439252f3753d15ea766d.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Wed, 16 Sep 2026 13:32:02 GMT</pubDate>
+            <guid isPermaLink="false">bceade66-8a76-4995-9db0-82ccbff3bb5a</guid></item><item>
+            <title>Breaking Jak długo można przechowywać surowe mięso w zamrażarce? Krócej niż sądzisz</title>
+            <link>https://kobieta.onet.pl/dom/kuchnia/jak-dlugo-mozna-przechowywac-surowe-mieso-w-zamrazarce/m720yjf</link>
+            <description>Jak wynika z analiz cytowanych przez &quot;Southern Living&quot;, większość surowego mięsa nie powinna spędzać w zamrażarce więcej niż rok, a niektóre rodzaje najlepiej przygotować już po dwóch—czterech miesiącach od zamrożenia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/8e0f3dbd7c053a8183c3a4fca8099713.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 03:52:00 GMT</pubDate>
+            <guid isPermaLink="false">92ab546f-d6fa-44be-9744-4545fd2458ee</guid></item><item>
+            <title>Breaking Partner Hayden Panettiere zabrał głos. Przerwał milczenie po tragedii</title>
+            <link>https://kobieta.onet.pl/celebryci/smierc-hayden-panettiere-wciaz-niewyjasniona-partner-zabral-glos/v9z72j1</link>
+            <description>Mija miesiąc od nagłej śmierci Hayden Panettiere. Aktorka znana z seriali &quot;Heroes&quot; i &quot;Nashville&quot; zmarła 16 sierpnia w wieku 36 lat. Teraz po raz pierwszy publicznie głos zabrał jej partner, Brian Hickerson, który przebywał z nią w chwili tragedii.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/9f2f16f6f4c9fa60430e8acc4d9b71a2.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 05:33:23 GMT</pubDate>
+            <guid isPermaLink="false">0930c433-f5b2-4ca3-abaa-9707e2b00851</guid></item><item>
+            <title>Breaking Obkleiła odkurzacz taśmą malarską. To rozwiązało powszechny problem</title>
+            <link>https://kobieta.onet.pl/dom/porady/obkleila-odkurzacz-tasma-malarska-to-rozwiazalo-powszechny-problem/tbmt20l</link>
+            <description>Takie prowizoryczne zabezpieczenie całkiem skutecznie chroni delikatne meble i ściany przed uszkodzeniem.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/1c1cc91da21cc59e0355f6530544b509.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 06:52:48 GMT</pubDate>
+            <guid isPermaLink="false">ff8b159d-8ee5-4a0a-b303-d3e1f762a173</guid></item><item>
+            <title>Breaking Sweeney zarabia na prowokacji. Nie tłumaczy się feministkom</title>
+            <link>https://kobieta.onet.pl/wiadomosci/sydney-sweeney-zarabia-na-prowokacji-nie-tlumaczy-sie-feministkom/rn0b0fn</link>
+            <description>Czy kobiecie wolno świadomie zrobić ze swojej atrakcyjności najcenniejszy kapitał? Sydney Sweeney od lat odpowiada na to pytanie po swojemu i za każdym razem wywołuje skandal. Jej najnowsza kampania tylko dolała oliwy do ognia.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/4abbdef9d5c14e775c345125e1f0ed7b.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 08:02:05 GMT</pubDate>
+            <guid isPermaLink="false">de33c261-1c3a-4ca9-b7f8-b81baf11d0f5</guid></item><item>
+            <title>Breaking Wieczorna regeneracja skóry. Co naprawdę dzieje się z cerą podczas snu?</title>
+            <link>https://kobieta.onet.pl/uroda/kosmetyki/pullulan-od-ziaja-na-noc-i-na-dzien-jak-zapewnic-skorze-kompleksowa-opieke/g0fgtdp</link>
+            <description>Sen kojarzymy przede wszystkim z odpoczynkiem całego organizmu, ale noc jest ważna również dla skóry. Jej funkcjonowanie zmienia się w ciągu doby zgodnie z rytmem okołodobowym. Dotyczy to między innymi pracy bariery naskórkowej, przepływu krwi, temperatury skóry czy procesów naprawczych. Dlatego wieczorna pielęgnacja nie musi być rozbudowanym rytuałem — ważniejsze, aby odpowiadała na potrzeby skóry właśnie o tej porze.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/7580397cb9679f33bb7aa049dea4ae34.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 09:15:15 GMT</pubDate>
+            <guid isPermaLink="false">adc2eb55-8daa-491d-995f-c17df9af3f65</guid></item><item>
+            <title>Breaking Te zabawki były hitem tegorocznych wakacji. Mogą być niebezpieczne dla zdrowia</title>
+            <link>https://kobieta.onet.pl/wiadomosci/popularne-gniotki-squishy-pod-lupa-takie-sa-zalecenia-dla-rodzicow/2h6zw8t</link>
+            <description>Popularne zabawki squishy, przypominające kolorowe pierożki, wzbudziły niepokój za granicą po serii incydentów związanych z bezpieczeństwem. W Stanach Zjednoczonych i Wielkiej Brytanii wycofano ze sprzedaży tysiące sztuk tych produktów. W Polsce platformy sprzedażowe oraz UOKiK podjęły działania w związku z zagranicznymi ostrzeżeniami.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/306ae9986bae2025e43f2c72185edd18.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 09:58:06 GMT</pubDate>
+            <guid isPermaLink="false">d029995d-f966-4b15-b7ac-f09de1c34994</guid></item><item>
+            <title>Breaking Policjanci szukają Emilii Koprowskiej. Przyglądają się zachowaniu męża</title>
+            <link>https://kobieta.onet.pl/wiadomosci/poszukiwania-emilii-koprowskiej-policjanci-przekazali-nowe-informacje/3g8q3g4</link>
+            <description>Poszukiwania Emilii Koprowskiej nie przyniosły przełomu. — W poszukiwaniach brał też udział pies tropiący zwłoki. Nawet nie podjął tropu — przekazała w rozmowie z serwisem O2 Izabela Sreberska, oficer prasowa KMP w Koszalinie. Służby mają też monitorować aktywność medialną męża zaginionej.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2a0fe4626ef2605f1adba0a3aa676428.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 10:31:34 GMT</pubDate>
+            <guid isPermaLink="false">527db41d-d43b-444c-8ec1-2777fc664c6e</guid></item><item>
+            <title>Breaking Mąż Weroniki zaskoczony po przylocie do Polski. &quot;U nas w Turcji bardzo rzadko słychać ptaki&quot;</title>
+            <link>https://kobieta.onet.pl/wiadomosci/kochaj-albo-wroc-weronika-wrocila-z-turcji-z-mezem-tak-zareagowali-dziadkowie/tybww7b</link>
+            <description>Po latach spędzonych w Turcji Emin i Weronika zdecydowali się na powrót do Polski — kraju rodzinnego Weroniki. Decyzja o przeprowadzce była podyktowana tęsknotą za rodziną i chęcią stworzenia nowego życia wśród bliskich. Dla Emina, który dotąd mieszkał w swojej ojczyźnie, to pierwsze tak bliskie spotkanie z polską rzeczywistością.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/2d04b1ecd3ee6e9cb5d79dc3fa150c58.jpg" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 11:06:56 GMT</pubDate>
+            <guid isPermaLink="false">9099b9d4-170e-41aa-bb7e-e023582f23a2</guid></item><item>
+            <title>Breaking Co pomaga dobrze się starzeć? Terapeuta mówi o trzech krokach</title>
+            <link>https://kobieta.onet.pl/wiadomosci/mialem-szanse-i-jej-nie-wykorzystalem-nie-popelniajcie-tych-bledow/wcleb48</link>
+            <description>Czy po siedemdziesiątce jest już za późno, by zmienić swoje życie? Psycholożka, która od lat pracuje z seniorami, nie ma wątpliwości. Nawet rany noszone przez dziesięciolecia można przepracować, a największe życiowe żale nie muszą towarzyszyć człowiekowi do końca. Jak mówi, starość często stawia przed ludźmi brutalne pytania, ale daje też ostatnią szansę, by wreszcie znaleźć na nie odpowiedzi.</description>
+            <enclosure url="https://ocdn.eu/pulscms/MDA_/8b69d6a4274ef8f3a07adfb5f7895ae6.png" length="0" type="image/jpeg"/>
+            <pubDate>Thu, 17 Sep 2026 11:53:23 GMT</pubDate>
+            <guid isPermaLink="false">0176c642-4d32-4b26-b5af-61067156ed98</guid></item></channel>
             </rss>
